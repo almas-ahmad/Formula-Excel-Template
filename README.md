@@ -51,8 +51,8 @@ This project is licensed under the MIT License - see the LICENSE file for more d
 
 👤 Author
 
-[Your Name]
+Almas Ahmad
 
 📧 Contact
 
-For questions or suggestions, please reach out via [your email or GitHub profile link].
+For questions or suggestions, please reach out via almasahmad995@gmail.com
