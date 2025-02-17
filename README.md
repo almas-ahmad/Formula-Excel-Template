@@ -1,13 +1,13 @@
 # Formula-Excel-Template
 This repository contains an Excel template with pre-defined formulas to assist in data analysis and calculations. The template is designed to simplify various mathematical and statistical operations within Excel, making it easier for users to manage and analyze data efficiently.
 
-📊 Formula Excel Template
+**📊 Formula Excel Template**
 
-📌 Overview
+**📌 Overview**
 
 The Formula Excel Template is a powerful, pre-configured spreadsheet designed to streamline data analysis and automate complex calculations. This template enables users to efficiently manage numerical data, making it ideal for business, finance, and research applications.
 
-✨ Features
+**✨ Features**
 
 📈 Pre-built formulas for common analytical and financial calculations.
 
@@ -17,13 +17,13 @@ The Formula Excel Template is a powerful, pre-configured spreadsheet designed to
 
 🔍 Comprehensive support for financial, statistical, and logical functions.
 
-📂 Repository Structure
+**📂 Repository Structure**
 
-📦 Formula-Excel-Template
+**📦 Formula-Excel-Template**
  ├── 📄 Formula Excel Template.xlsx  # Main Excel template
  ├── 📜 README.md                    # Documentation
 
-🛠️ How to Use
+**🛠️ How to Use**
 
 Download the Formula Excel Template.xlsx file.
 
@@ -35,24 +35,24 @@ Utilize built-in formulas for automated calculations.
 
 Customize as needed to suit your requirements.
 
-📋 Prerequisites
+**📋 Prerequisites**
 
 Microsoft Excel (or equivalent spreadsheet software)
 
 Basic understanding of Excel formulas and functions
 
-🤝 Contributing
+**🤝 Contributing**
 
 We welcome contributions! To enhance the template, fork this repository and submit a pull request with your improvements.
 
-📜 License
+**📜 License**
 
 This project is licensed under the MIT License - see the LICENSE file for more details.
 
-👤 Author
+**👤 Author**
 
 Almas Ahmad
 
-📧 Contact
+**📧 Contact**
 
 For questions or suggestions, please reach out via almasahmad995@gmail.com
